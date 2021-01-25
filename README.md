@@ -1,0 +1,1 @@
+# convertitore-valuta-senza-input
